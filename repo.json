@@ -1,0 +1,8 @@
+{
+    "name": "adippe",
+    "description": "Italian anime/movies providers for CloudStream 3 (AnimeWorld, with TMDB title-logo enrichment).",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/antonydp/cs3aw/refs/heads/main/plugin.json"
+    ]
+}
