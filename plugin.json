@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/antonydp/cs3aw/main/AnimeWorld.cs3",
         "status": 1,
-        "version": 26,
+        "version": 27,
         "name": "AnimeWorld",
         "internalName": "AnimeWorld",
         "authors": [
-            "Adippe"
+            "adippe"
         ],
         "description": "Anime da AnimeWorld con logo PNG trasparente (AniList \u2192 ARM \u2192 TMDB).",
-        "fileSize": 109889,
+        "fileSize": 106831,
         "repositoryUrl": "https://github.com/antonydp/cs3aw",
         "language": "it",
         "tvTypes": [
@@ -19,6 +19,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/AnimeWorld/animeworld_icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-3a3e3d94888f38f915d2d90c4588172149fc851ad31680990e970a39cfb896f2"
+        "fileHash": "sha256-d1bac5a019369c061a63cdd4faee3efdb876cbde7bd7599f82039c236a0c042c"
     }
 ]
