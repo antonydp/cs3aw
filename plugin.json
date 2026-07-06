@@ -2,11 +2,11 @@
     {
         "url": "https://raw.githubusercontent.com/antonydp/cs3aw/main/AnimeWorld.cs3",
         "status": 1,
-        "version": 27,
+        "version": 26,
         "name": "AnimeWorld",
         "internalName": "AnimeWorld",
         "authors": [
-            "adippe"
+            "Adippe"
         ],
         "description": "Anime da AnimeWorld con logo PNG trasparente (AniList \u2192 ARM \u2192 TMDB).",
         "fileSize": 109889,
